@@ -33,7 +33,8 @@ Tema: escuro futurista (em linha com o portfólio)
 ### Sobre mim
 - 🔭 Atualmente focado em **aplicações web** (Node.js / Django) e **IoT (ESP32 + MQTT)**  
 - 🎯 Curto transformar ideias em **projetos práticos** (rifas PIX, dashboards, automações)  
-- 📚 Sempre aprendendo: **Java, C#, Kotlin, MySQL**  
+- 📚 Sempre aprendendo: **Java, C#, Kotlin, MySQL**
+- Desenvolvendo Um Otserver Alliance Server, com projeto a uniplac, para alunos ganharem recompensa no jogo 
 - 💬 Me chama para falar sobre **backend, banco de dados e deploy**  
 
 ---
