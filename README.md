@@ -78,7 +78,7 @@ Tema: escuro futurista (em linha com o portfólio)
 ---
 
 ### Como falar comigo
-- ✉️ **E-mail:** gabev14@gmail.com  
+- ✉️ **E-mail:** foxsoftwareofc@gmail.com 
 - 💼 **LinkedIn:** /in/gabriel-vieira-50797119b  
 - 🧑‍💻 **GitHub:** @lageano
 
