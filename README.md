@@ -34,7 +34,8 @@ Tema: escuro futurista (em linha com o portfólio)
 - 🔭 Atualmente focado em **aplicações web** (Node.js / Django) e **IoT (ESP32 + MQTT)**  
 - 🎯 Curto transformar ideias em **projetos práticos** (rifas PIX, dashboards, automações)  
 - 📚 Sempre aprendendo: **Java, C#, Kotlin, MySQL**
-- Desenvolvendo Um Otserver Alliance Server, com projeto a uniplac, para alunos ganharem recompensa no jogo 
+- Desenvolvendor De jogo E dono Do Servidor Alliance Server
+- https://allianceserver.servebeer.com/?news
 - 💬 Me chama para falar sobre **backend, banco de dados e deploy**  
 
 ---
