@@ -79,9 +79,15 @@ Tema: escuro futurista (em linha com o portfólio)
 ---
 
 ### Como falar comigo
-- ✉️ **E-mail:** foxsoftwareofc@gmail.com 
+- ✉️ **E-mail:** gabrielvieirasistemas@gmail.com
 - 💼 **LinkedIn:** /in/gabriel-vieira-50797119b  
 - 🧑‍💻 **GitHub:** @lageano
+- 
+Se Gostou De Algum Projeto Meu e Quiser Me ajudar Com Alguma  doações em BRL, utilize o Paypal:
+
+[![Doar](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=UBH4DUQ27BG4C&no_recurring=0&currency_code=BRL)
+
+Qualquer ajuda e sugestões serão apreciadas.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0d10&height=2"/>
