@@ -23,7 +23,7 @@ Tema: escuro futurista (em linha com o portfólio)
   <a href="https://www.linkedin.com/in/gabriel-vieira-50797119b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0b0d10?style=for-the-badge&logo=linkedin&logoColor=0ea5e9"/>
   </a>
-  <a href="mailto:gabgev14@gmail.com">
+  <a href="mailto:gabrielvieirasistemas@gmail.com">
     <img src="https://img.shields.io/badge/Email-0b0d10?style=for-the-badge&logo=gmail&logoColor=f43f5e"/>
   </a>
 </p>
@@ -35,7 +35,7 @@ Tema: escuro futurista (em linha com o portfólio)
 - 🎯 Curto transformar ideias em **projetos práticos** (rifas PIX, dashboards, automações)  
 - 📚 Sempre aprendendo: **Java, C#, Kotlin, MySQL**
 - Desenvolvendor De jogo E dono Do Servidor Alliance Server
-- https://allianceserver.servebeer.com/?news
+- https://allianceserver.com.br
 - 💬 Me chama para falar sobre **backend, banco de dados e deploy**  
 
 ---
