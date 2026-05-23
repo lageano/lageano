@@ -60,6 +60,10 @@ const gabriel = {
   <a href="https://premiaxpro.com" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20PremiaxPro%20—%20Live%20em%20Produção-ff0033?style=for-the-badge&labelColor=1a0005"/>
   </a>
+  &nbsp;
+  <a href="https://premiaxpro.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Acessar%20premiaxpro.com-0b0d10?style=for-the-badge&labelColor=1a0005&color=0b0d10"/>
+  </a>
 
 </div>
 
