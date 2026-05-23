@@ -70,7 +70,7 @@ const gabriel = {
 | **Stack** | Node.js · React · MySQL · JWT Auth · Nginx · VPS |
 | **Payments** | Mercado Pago API · PIX Dinâmico · Webhook |
 | **Uptime** | 99.9% · Deploy em VPS própria |
-| **Link** | [premiaxpro.com](https://premiaxpro.com) |
+| **Site** | [premiaxpro.com](https://premiaxpro.com) |
 
 ---
 
