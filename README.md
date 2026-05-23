@@ -1,94 +1,148 @@
-<!--
-Perfil do GitHub — Gabriel Geremias Vieira
-Tema: escuro futurista (em linha com o portfólio)
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0033&height=220&section=header&text=Gabriel%20Vieira&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20SaaS%20Builder&descAlignY=60&descColor=ffaaaa&animation=twinkling"/>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0d10&height=2"/>
-</p>
-
-<h1 align="center">Fala aí, eu sou o Gabriel Vieira 👋</h1>
-<p align="center">
-  <strong>Dev Full-Stack</strong> · Lages/SC · <a href="mailto:gabgev14@gmail.com">gabgev14@gmail.com</a><br/>
-  Estudante de Sistemas de Informação (UNIPLAC) e Técnico em DS (SENAI).
-</p>
-
-<p align="center">
-  <a href="https://lageano.github.io/gabrielgeremiasvieiraportfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfólio-67e8f9?style=for-the-badge&labelColor=0b0d10"/>
+<div align="center">
+  <a href="https://gabrielgeremiasvieira.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfólio-ff0033?style=for-the-badge&labelColor=0b0d10&color=ff0033"/>
   </a>
-  <a href="https://github.com/lageano" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0b0d10?style=for-the-badge&logo=github"/>
-  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/gabriel-vieira-50797119b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0b0d10?style=for-the-badge&logo=linkedin&logoColor=0ea5e9"/>
   </a>
-  <a href="mailto:gabrielvieirasistemas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0b0d10?style=for-the-badge&logo=gmail&logoColor=f43f5e"/>
+  &nbsp;
+  <a href="https://www.instagram.com/heybiel_vieira" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0b0d10?style=for-the-badge&logo=instagram&logoColor=e1306c"/>
   </a>
-</p>
+  &nbsp;
+  <a href="mailto:gabgev14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0b0d10?style=for-the-badge&logo=gmail&logoColor=ff0033"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/5549999600920" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-0b0d10?style=for-the-badge&logo=whatsapp&logoColor=22c55e"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=20&duration=3000&pause=800&color=FF0033&center=true&vCenter=true&width=520&lines=Construo+sistemas+SaaS+do+zero+ao+deploy;React+%7C+Node.js+%7C+TypeScript+%7C+Java+%7C+C%23;Especialista+em+integrações+de+pagamento+PIX;Aberto+a+oportunidades+%F0%9F%9A%80" alt="Typing SVG"/>
+</div>
 
 ---
 
-### Sobre mim
-- 🔭 Atualmente focado em **aplicações web** (Node.js / Django) e **IoT (ESP32 + MQTT)**  
-- 🎯 Curto transformar ideias em **projetos práticos** (rifas PIX, dashboards, automações)  
-- 📚 Sempre aprendendo: **Java, C#, Kotlin, MySQL**
-- Desenvolvendor De jogo E dono Do Servidor Alliance Server
-- https://allianceserver.com.br
-- 💬 Me chama para falar sobre **backend, banco de dados e deploy**  
+## `$ whoami`
+
+```ts
+const gabriel = {
+  nome:       "Gabriel Geremias Vieira",
+  local:      "Lages, SC — Brasil 🇧🇷",
+  formação:   ["UNIPLAC — Sistemas de Informação", "SENAI — Técnico em Desenvolvimento de Sistemas"],
+  foco:       ["SaaS Full-Stack", "APIs escaláveis", "Integração de pagamentos PIX"],
+  disponível: true,
+  contato:    "gabgev14@gmail.com",
+};
+```
+
+- 🔴 **5+ anos** construindo sistemas reais com usuários reais
+- 🏗️ **2 plataformas SaaS** em produção — do banco ao frontend
+- 💳 Especialista em **Mercado Pago / PIX**, JWT Auth e WebSockets
+- 🖥️ Deploy em **VPS própria** com Nginx, PM2 e Docker
+- 🎮 Fundador do servidor Tibia **[Alliance Server](https://allianceserver.com.br)**
 
 ---
 
-### Stack & Ferramentas
-<p align="left">
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-</p>
+## 🏆 Projeto em Destaque
 
----
-
-### Destaques rápidos
-- 🧾 **Rifas PIX** — QR Code, status de pagamento, painel admin  
-- 🌐 **Portfólio futurista** — tema escuro, responsivo, animações suaves  
-- 📡 **ESP32 + EMQX + ThingSpeak** — telemetria em nuvem com dashboard
-
-> Veja mais no meu portfólio: **[lageano.github.io/gabrielgeremiasvieiraportfolio](https://lageano.github.io/gabrielgeremiasvieiraportfolio/)**
-
----
-
-### Números que contam a história
 <div align="center">
 
-  <img height="160" alt="GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=lageano&show_icons=true&theme=tokyonight&bg_color=0b0d10&title_color=67e8f9&icon_color=a78bfa&text_color=cbd5e1&hide_border=true"/>
+  <a href="https://premiaxpro.com" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20PremiaxPro%20—%20Live%20em%20Produção-ff0033?style=for-the-badge&labelColor=1a0005"/>
+  </a>
 
-  <img height="160" alt="Top Langs"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=lageano&layout=compact&theme=tokyonight&bg_color=0b0d10&title_color=67e8f9&text_color=cbd5e1&hide_border=true"/>
+</div>
+
+> **Plataforma SaaS completa de rifas digitais** — pagamento PIX automático via Mercado Pago, carteira digital integrada, painel analítico, sistema de cotas e 100+ usuários ativos.
+
+| | |
+|---|---|
+| **Stack** | Node.js · React · MySQL · JWT Auth · Nginx · VPS |
+| **Payments** | Mercado Pago API · PIX Dinâmico · Webhook |
+| **Uptime** | 99.9% · Deploy em VPS própria |
+| **Link** | [premiaxpro.com](https://premiaxpro.com) |
+
+---
+
+## ⚙️ Stack Principal
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=react,ts,html,css,js,tailwind,vite&theme=dark)](https://skillicons.dev)
+
+**Backend & DB**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,java,cs,dotnet,python,kotlin,mysql&theme=dark)](https://skillicons.dev)
+
+**DevOps & Ferramentas**
+
+[![DevOps](https://skillicons.dev/icons?i=docker,linux,git,github,vscode,nginx&theme=dark)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub em Números
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lageano&show_icons=true&theme=tokyonight&bg_color=0b0d10&title_color=ff0033&icon_color=ff6666&text_color=cbd5e1&hide_border=true&border_radius=12&count_private=true"/>
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lageano&layout=compact&theme=tokyonight&bg_color=0b0d10&title_color=ff0033&text_color=cbd5e1&hide_border=true&border_radius=12&langs_count=8"/>
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=lageano&theme=dark&background=0b0d10&ring=ff0033&fire=ff0033&currStreakLabel=ff6666&sideLabels=cbd5e1&dates=6b7280&hide_border=true&border_radius=12"/>
+</div>
+
+---
+
+## 🎯 Especialidades
+
+```
+☁️  Cloud & DevOps   →  AWS/Azure Fundamentals · Docker · CI/CD · Linux · VPS · Nginx · PM2
+🏗️  Arquitetura      →  Microsserviços · tRPC · WebSockets · Clean Code · SOLID · Drizzle ORM
+💳  Integrações      →  Mercado Pago · PIX · Stripe · WhatsApp API · LLM / IA · REST
+📡  IoT              →  ESP32 · MQTT · EMQX · ThingSpeak · Telemetria em nuvem
+```
+
+---
+
+## 📫 Fala comigo
+
+<div align="center">
+
+| Canal | Link |
+|---|---|
+| 💼 LinkedIn | [gabriel-vieira-50797119b](https://www.linkedin.com/in/gabriel-vieira-50797119b) |
+| 💬 WhatsApp | [+55 49 99960-0920](https://wa.me/5549999600920) |
+| 📧 E-mail | [gabgev14@gmail.com](mailto:gabgev14@gmail.com) |
+| 🌐 Portfólio | [gabrielgeremiasvieira.com](https://gabrielgeremiasvieira.com) |
+| 🎮 Alliance Server | [allianceserver.com.br](https://allianceserver.com.br) |
 
 </div>
 
 ---
 
-### Como falar comigo
-- ✉️ **E-mail:** gabrielvieirasistemas@gmail.com
-- 💼 **LinkedIn:** /in/gabriel-vieira-50797119b  
-- 🧑‍💻 **GitHub:** @lageano
-- 
-Se Gostou De Algum Projeto Meu e Quiser Me ajudar Com Alguma  doações em BRL, utilize o Paypal:
+<div align="center">
 
-[![Doar](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=UBH4DUQ27BG4C&no_recurring=0&currency_code=BRL)
+  Se algum projeto te ajudou ou te impressionou, um ⭐ já faz o dia! 🤝
 
-Qualquer ajuda e sugestões serão apreciadas.
+  <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0b0d10&height=2"/>
-</p>
+  [![Donate](https://img.shields.io/badge/💸%20Apoiar%20via%20PayPal-0b0d10?style=for-the-badge&logo=paypal&logoColor=00b4d8)](https://www.paypal.com/donate/?business=UBH4DUQ27BG4C&no_recurring=0&currency_code=BRL)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0033&height=120&section=footer"/>
+</div>
